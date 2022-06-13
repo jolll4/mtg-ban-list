@@ -1,6 +1,10 @@
+import os
 
 def open_file(filename):
-    with open(filename) as file:
+    __location__ = os.path.realpath(
+        os.path.join(os.getcwd(), os.path.dirname(__file__)))
+
+    with open(os.path.join(__location__, filename)) as file:
         lines = file.readlines()
         lines = [line.rstrip().lower() for line in lines]
     return lines
