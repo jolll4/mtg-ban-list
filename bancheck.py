@@ -1,6 +1,7 @@
 import os
+import sys
 
-def open_file(filename):
+def read_file_to_list(filename):
     __location__ = os.path.realpath(
         os.path.join(os.getcwd(), os.path.dirname(__file__)))
 
@@ -10,15 +11,20 @@ def open_file(filename):
     return lines
 
 def check_bans():
-    bans = open_file('banlist.txt')
-    deck = open_file('deck.txt')
-    for i in bans:
-        if "#" != i[0]:
-            for j in deck:
-                if i.lower() in j.lower():
-                    print("Banned card \"%s\" detected as \"%s\"" % (i, j))
-        else:
-            print(i)
+    bans = read_file_to_list('banlist.txt')
+    deck = read_file_to_list('deck.txt')
+
+    __location__ = os.path.realpath(
+        os.path.join(os.getcwd(), os.path.dirname(__file__)))
+
+    with open(os.path.join(__location__, 'comparison.txt'), 'w') as outputfile:
+        for i in bans:
+            if "#" != i[0]:
+                for j in deck:
+                    if i.lower() in j.lower():
+                        print("Banned card \"%s\" detected as \"%s\"" % (i, j), file=outputfile)
+            else:
+                print(i, file=outputfile)
     print("Check complete")
     return 0
 
