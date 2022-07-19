@@ -74,3 +74,91 @@ Whispersilk Cloak
 Windfall
 You Are Already Dead
 # End of first set
+# Second set of bans, winner Lehto
+Gavi, Nest Warden
+Abandoned Sarcophagus
+Akroma's Vengeance
+Angelsong
+Arcane Signet
+Archaeomancer's Map
+Ash Barrens
+Astral Drift
+Astral Slide
+Azorius Chancery
+Azorius Signet
+Bag of Holding
+Battlefield Forge
+Boon of the Wish-Giver
+Boros Garrison
+Boros Signet
+Brallin, Skyshark Rider
+Cast Out
+Chandra, Flamecaller
+Clear
+Command Tower
+Commander's Sphere
+Crystalline Resonance
+Curator of Mysteries
+Decree of Justice
+Descend upon the Sinful
+Desert of the Fervent
+Desert of the Mindful
+Desert of the True
+Dismantling Wave
+Drake Haven
+Drifting Meadow
+Elixir of Immortality
+Ephara, God of the Polis
+Exotic Orchard
+Fierce Guardianship
+Forgotten Cave
+Forsake the Worldly
+Gilded Light
+Glint-Horn Buccaneer
+Herald of the Forgotten
+Hieroglyphic Illumination
+Idyllic Tutor
+Improbable Alliance
+Irrigated Farmland
+Izzet Boilerworks
+Izzet Signet
+Kindred Discovery
+Lightning Rift
+Lonely Sandbar
+Mystic Monastery
+Neutralize
+New Perspectives
+Nimble Obstructionist
+Ominous Seas
+Prairie Stream
+Raugrin Crystal
+Raugrin Triome
+Rebuild
+Reconnaissance Mission
+Reliquary Tower
+Remote Isle
+Rooting Moloch
+Secluded Steppe
+Shabraz, the Skyshark
+Shivan Reef
+Shredded Sails
+Skycloud Expanse
+Slice and Dice
+Smoldering Crater
+Sol Ring
+Spellpyre Phoenix
+Sulfur Falls
+Sun Titan
+Surly Badgersaur
+Tectonic Reformation
+Teferi's Ageless Insight
+The Council of Four
+The Locust God
+Training Center
+Unpredictable Cyclone
+Valiant Rescuer
+Violent Impact
+Vizier of Tumbling Sands
+Yidaro, Wandering Monster
+Zenith Flare
+# End of second bans
