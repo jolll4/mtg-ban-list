@@ -1,1 +1,330 @@
-# First set of bans
+# First set of bans, winner Jouni
+Satoru Umezawa
+Access Tunnel
+An Offer You Can't Refuse
+Arcane Denial
+Baleful Mastery
+Baleful Strix
+Bant Panorama
+Barren Moor
+Bident of Thassa
+Breaker of Armies
+Brokers Hideout
+Changeling Outcast
+Choked Estuary
+Coastal Piracy
+Command Beacon
+Consecrated Sphinx
+Counterspell
+Cunning Evasion
+Damnation
+Deadly Rollick
+Dimir Cluestone
+Dimir Keyrune
+Dimir Locket
+Dimir Signet
+Drowned Catacomb
+Emrakul, the Promised End
+Fallen Shinobi
+Flood of Tears
+Grazilaxx, Illithid Scholar
+Grim Tutor
+Gyruda, Doom of Depths
+Invisible Stalker
+Kaito Shizuki
+Kozilek, the Great Distortion
+Mind Stone
+Mindleech Mass
+Mist-Cloaked Herald
+Myriad Landscape
+Nashi, Moon Sage's Scion
+Nezahal, Primal Tide
+Opt
+Otawara, Soaring City
+Pongify
+Propaganda
+Prosperous Thief
+Read the Bones
+Rogue Class
+Scheming Symmetry
+Sepulchral Primordial
+Shadowgrange Archfiend
+Sheoldred, Whispering One
+Shipwreck Marsh
+Sign in Blood
+Silent-Blade Oni
+Silver-Fur Master
+Slip Out the Back
+Slither Blade
+Smoke Shroud
+Sower of Discord
+Sunken Hollow
+Takenuma, Abandoned Mire
+Terramorphic Expanse
+Thousand-Faced Shadow
+Tormented Soul
+Toxrill, the Corrosive
+Treasure Cruise
+Triton Shorestalker
+Ulamog, the Ceaseless Hunger
+Vilis, Broker of Blood
+Wash Away
+Wayfarer's Bauble
+Whispersilk Cloak
+Windfall
+You Are Already Dead
+# End of first set
+# Second set of bans, winner Lehto
+Gavi, Nest Warden
+Abandoned Sarcophagus
+Akroma's Vengeance
+Angelsong
+Arcane Signet
+Archaeomancer's Map
+Ash Barrens
+Astral Drift
+Astral Slide
+Azorius Chancery
+Azorius Signet
+Bag of Holding
+Battlefield Forge
+Boon of the Wish-Giver
+Boros Garrison
+Boros Signet
+Brallin, Skyshark Rider
+Cast Out
+Chandra, Flamecaller
+Clear
+Command Tower
+Commander's Sphere
+Crystalline Resonance
+Curator of Mysteries
+Decree of Justice
+Descend upon the Sinful
+Desert of the Fervent
+Desert of the Mindful
+Desert of the True
+Dismantling Wave
+Drake Haven
+Drifting Meadow
+Elixir of Immortality
+Ephara, God of the Polis
+Exotic Orchard
+Fierce Guardianship
+Forgotten Cave
+Forsake the Worldly
+Gilded Light
+Glint-Horn Buccaneer
+Herald of the Forgotten
+Hieroglyphic Illumination
+Idyllic Tutor
+Improbable Alliance
+Irrigated Farmland
+Izzet Boilerworks
+Izzet Signet
+Kindred Discovery
+Lightning Rift
+Lonely Sandbar
+Mystic Monastery
+Neutralize
+New Perspectives
+Nimble Obstructionist
+Ominous Seas
+Prairie Stream
+Raugrin Crystal
+Raugrin Triome
+Rebuild
+Reconnaissance Mission
+Reliquary Tower
+Remote Isle
+Rooting Moloch
+Secluded Steppe
+Shabraz, the Skyshark
+Shivan Reef
+Shredded Sails
+Skycloud Expanse
+Slice and Dice
+Smoldering Crater
+Sol Ring
+Spellpyre Phoenix
+Sulfur Falls
+Sun Titan
+Surly Badgersaur
+Tectonic Reformation
+Teferi's Ageless Insight
+The Council of Four
+The Locust God
+Training Center
+Unpredictable Cyclone
+Valiant Rescuer
+Violent Impact
+Vizier of Tumbling Sands
+Yidaro, Wandering Monster
+Zenith Flare
+# End of second bans
+# Start of third bans, winner Jouni
+Zevlor, Elturel Exile
+Archive Trap
+Archmage Emeritus
+Bedevil
+Blood Crypt
+Borrowing 100,000 Arrows
+Clone Legion
+Cormela, Glamour Thief
+Covetous Urge
+Cruel Ultimatum
+Crumbling Necropolis
+Crypt Incursion
+Curse of the Cabal
+Decanter of Endless Water
+Deekah, Fractal Theorist
+Electrodominance
+Errant, Street Artist
+Exhaustion
+Fellwar Stone
+Font of Magic
+Gitaxian Probe
+Goblin Electromancer
+Haunted Ridge
+Head Games
+Inevitable Betrayal
+Jeska's Will
+Kelpie Guide
+Kess, Dissident Mage
+Leadership Vacuum
+Luxury Suite
+Maestros Theater
+Mystic Remora
+Negate
+Nightscape Familiar
+Patriar's Seal
+Peek
+Peer into the Abyss
+Polluted Delta
+Portent
+Praetor's Grasp
+Rakdos Charm
+Ral, Storm Conduit
+Rapid Hybridization
+Ravenous Trap
+Reality Shift
+Reflecting Pool
+Rousing Refrain
+Sakashima's Will
+Scalding Tarn
+Sedgemoor Witch
+Silent Arbiter
+Snap
+Steam Vents
+Stolen Goods
+Storm-Kiln Artist
+Stormcarved Coast
+Strionic Resonator
+Talent of the Telepath
+Talisman of Creativity
+Talisman of Indulgence
+Terminate
+Theft of Dreams
+Traumatize
+Twinning Staff
+Vadrik, Astral Archmage
+Veyran, Voice of Duality
+Wandering Archaic // Explore the Vastlands
+Watery Grave
+Wild Magic Surge
+Wizards of Thay
+Worst Fears
+Xander's Lounge
+You Find Some Prisoners
+Zaffai, Thunder Conductor
+# End of third bans
+# Start of fourth bans, winner Lehto
+Archangel Avacyn // Avacyn, the Purifier
+Arcbond
+Archaeomancer's Map
+Ash Barrens
+Austere Command
+Axgard Armory
+Banishing Light
+Battlefield Forge
+Blasphemous Act
+Boros Charm
+Boros Garrison
+Boros Guildgate
+Boros Reckoner
+Boros Signet
+Brash Taunter
+Buried Ruin
+Burnished Hart
+Chain Reaction
+Chandra's Ignition
+Chandra, Flamecaller
+Chaos Warp
+Coalhauler Swine
+Command Tower
+Daretti, Scrap Savant
+Darksteel Ingot
+Dictate of the Twin Gods
+Evolving Wilds
+Fabled Passage
+Forgotten Cave
+Furnace of Rath
+Geier Reach Sanitarium
+Ghirapur Orrery
+Ghitu Encampment
+Ghostly Prison
+Gisela, Blade of Goldnight
+Goblin Welder
+Gratuitous Violence
+Hanweir Battlements
+Heartless Hidetsugu
+Hedron Archive
+Homeward Path
+Ichor Wellspring
+Ill-Tempered Loner // Howlpack Avenger
+Kiki-Jiki, Mirror Breaker
+Knight of the White Orchid
+Kor Haven
+Lightning Greaves
+Magmaquake
+Martyrdom
+Mind Stone
+Mind's Eye
+Mistveil Plains
+Mogg Maniac
+Mother of Runes
+Mycosynth Wellspring
+Myriad Landscape
+Needle Spires
+Nomads en-Kor
+Oblivion Ring
+Open the Armory
+Pariah
+Pariah's Shield
+Path to Exile
+Pyrohemia
+Ranger of Eos
+Repercussion
+Scrap Mastery
+Secluded Steppe
+Shaman en-Kor
+Sol Ring
+Solemn Simulacrum
+Spinerock Knoll
+Spitemare
+Stone Quarry
+Stonehewer Giant
+Stuffy Doll
+Subterranean Tremors
+Sun Titan
+Sunforger
+Sunhome, Fortress of the Legion
+Swords to Plowshares
+Temple of the False God
+Trading Post
+Truefire Captain
+Voltaic Key
+Wear // Tear
+Wind-Scarred Crag
+Zealous Conscripts
+# End of fourth bans
